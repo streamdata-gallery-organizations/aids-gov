@@ -1,15 +1,15 @@
 ---
 name: AIDS.gov
-x-slug: aidsgov
-description: "HIV.gov is the federal government\u2019s leading source for information
-  about HIV."
+x-slug: aids-gov
+description: HIV.gov is the federal governments leading source for information about
+  HIV.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/323-aids-gov.jpg
 x-kinRank: "8"
 x-alexaRank: "98406"
 tags: AIDS.gov
-created: "2018-05-22"
-modified: "2018-05-22"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aids.gov/master/_listings/aidsgov/apis.md
+created: "2018-05-24"
+modified: "2018-05-24"
+url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aids-gov/master/_listings/aids-gov/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
